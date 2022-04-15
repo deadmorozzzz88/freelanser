@@ -79,25 +79,71 @@ h6 {
 
 body {
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  color: #333333;
 }
 
 h1 {
-  font-size: 25px;
+  font-size: 30px;
   line-height: 30px;
   color: #445161;
 }
 
 .like {
   line-height: 25px;
-  color: #333333;
+}
+
+h2 {
+  font-size: 25px;
+  line-height: 30px;
+  color: #445161;
 }
 
 .bold {
-  line-height: 14px;
   font-weight: bold;
 }
 
 .red {
-  line-height: 14px;
   color: red;
+}
+
+h3 {
+  font-size: 20px;
+line-height: 30px;
+color: #445161;
+}
+.text-right {
+  text-align: right;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.text-center {
+  text-align: center;
+}
+
+h4 {
+  font-size: 24px;
+line-height: 24px;
+}
+
+.center-line {
+  text-decoration: line-through;
+}
+
+.text {
+font-family: "Times New Roman";
+}
+
+.shadow {
+  text-shadow: 0.5px 0.866px 0.5px #000000;
 }
